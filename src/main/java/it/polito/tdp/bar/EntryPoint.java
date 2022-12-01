@@ -1,7 +1,6 @@
 package it.polito.tdp.bar;
 
 import javafx.application.Application;
-import static javafx.application.Application.launch;
 
 import it.polito.tdp.bar.model.Model;
 import javafx.fxml.FXMLLoader;
